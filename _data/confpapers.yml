@@ -1,0 +1,203 @@
+- title: Prioritizing The Devices To Test Your App On- A Case Study Of Android Game Apps
+  new:
+    - NEW
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/TSE2014_Syer.pdf
+  authors:
+    - Hammad Khalid, Meiyappan Nagappan, Emad Shihab, and Ahmed E. Hassan
+  pub:
+    - IEEE Transactions of Software Engineering
+  year:
+    - 2014
+ 
+- title: Understanding Log Lines Using Development Knowledge
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/EMSE2014_Mcintosh.pdf
+  authors:
+    - Weiyi Shang, Meiyappan Nagappan, Ahmed E. Hassan, and Zhen Ming Jiang
+  pub:
+    - Empirical Software Engineering
+  year:
+    - May 23 2014
+
+- title: Mining Co-Change Information to Understand when Build Changes are Necessary
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/Software2014_Mojica_2.pdf
+  authors:
+    - Shane Mcintosh, Bram Adams, Meiyappan Nagappan, and Ahmed E. Hassan
+  pub:
+    - IEEE Software
+  year:
+    - 14 May 2014 (PrePrint)
+
+- title: An Empirical Study of Dormant Bugs
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/Software2014_Mojica_1.pdf
+  authors:
+    - Tse-Hsun Chen, Meiyappan Nagappan, Emad Shihab, and Ahmed E. Hassan
+  pub:
+    - IEEE Software
+  year:
+    - 1 May 2014 (PrePrint)
+
+- title: An Industrial Case Study of Automatically Identifying Performance Regression-Causes
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/MSR2014-Nguyen-PreCRC.pdf
+  authors:
+    - Thanh H. D. Nguyen, Meiyappan Nagappan, Ahmed E. Hassan, Mohamed Nasser and Parminder Flora
+  pub:
+    - Springer Software Quality Journal Minor Revision Requested
+  year:
+    - March 11 2014
+
+- title: Continuous Validation of Load Test Suites
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/ICPE2014-Syer.pdf
+  authors:
+    - Mark D. Syer, Zhen Ming Jiang, Meiyappan Nagappan, Ahmed E. Hassan, Mohamed Nasser and Parminder Flora
+  pub:
+    - IEEE Software
+  year:
+    - 10 March 2014 (PrePrint)
+
+- title: Revisiting Prior Empirical Findings For Mobile Apps- An Empirical Case Study on the 15 Most Popular Open-Source Android Apps
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/EMSE2013_Bettenburg.pdf
+  authors:
+    - Mark D. Syer, Meiyappan Nagappan, Bram Adams and Ahmed E. Hassan
+  pub:
+    - Empirical Software Engineering
+  year:
+    - Accepted November 27 2013
+
+- title: Leveraging Performance Counters and Execution Logs to Diagnose Memory-Related Performance Issues
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/Software2014_Mojica_1.pdf
+  authors:
+    - Mark D. Syer, Zhen Ming Jiang, Meiyappan Nagappan, Ahmed E. Hassan, Mohamed Nasser and Parminder Flora
+  pub:
+    - IEEE Software Special Issue on Next Generation Mobile Computing
+  year:
+    - November 2013
+
+- title: Predicting Bugs Using Antipatterns
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/icsm2013-ehsan.pdf
+  authors:
+    - Seyyed Ehsan Salamati Taba, Foutse Khomh, Ying Zou, Ahmed E. Hassan and Meiyappan Nagappan
+  pub:
+    - IEEE Transactions on Software Engineering, Vol 39, Issue 10 Pages 1427- 1443
+  year:	
+    - October 2013. 
+
+- title: Diversity in Software Engineering Research
+  new:
+    - 
+  urlhost:
+    - http://research.microsoft.com/pubs/193433/nagappan-esecfse-2013.pdf
+  authors:
+    - Meiyappan Nagappan, Thomas Zimmermann, and Christian Bird
+  pub:
+    - Empirical Software Engineering
+  year:
+    - Published Online September 08 2013
+
+- title: Revisiting Software Development Effort Estimation Based on Early Phase Development Activities
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/p429-tsunoda.pdf
+  authors:
+    - Masateru Tsunoda, Koji Toda, Kyohei Fushida, Yasutaka Kamei, Meiyappan Nagappan, and Naoyasu Ubayashi
+  pub:
+    - Empirical Software Engineering
+  year:
+    - Published Online September 08 2013
+
+- title: An Empirical Study of Build System Migrations in Practice- Case Studies on KDE and the Linux Kernel
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/roman-icsm2012.pdf
+  authors:
+    - Roman Suvorov, Bram Adams, Meiyappan Nagappan, Ahmed Hassan and Ying Zou
+  pub:
+    - Empirical Software Engineering
+  year:
+    - Published Online September 08 2013
+
+- title: Understanding Reuse in the Android Market
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/ICPC2012-Ruiz.pdf
+  authors:
+    - Israel J. Mojica Ruiz, Meiyappan Nagappan, Bram Adams, Ahmed E. Hassan
+  pub:
+    - Empirical Software Engineering
+  year:
+    - Published Online September 08 2013
+
+- title: Think Locally, Act Globally- Improving Defect and Effort Prediction Models
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/MSR2012_Bettenburg.pdf
+  authors:
+    - Nicolas Bettenburg, Meiyappan Nagappan, Ahmed E. Hassan
+  pub:
+    - Empirical Software Engineering
+  year:
+    - Published Online September 08 2013
+
+- title: Explaining Software Defects Using Topic Models
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/MSR2012_Chen.pdf
+  authors:
+    - Tse-Hsun Chen, Stephen W. Thomas, Meiyappan Nagappan, Ahmed E. Hassan
+  pub:
+    - Empirical Software Engineering
+  year:
+    - Published Online September 08 2013
+
+- title: Efficiently Extracting Operational Profiles from Execution Logs using Suffix Arrays
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/issre_Nagappan.pdf
+  authors:
+    - Meiyappan Nagappan, Kesheng Wu, and Mladen A. Vouk
+  pub:
+    - Empirical Software Engineering
+  year:
+    - Published Online September 08 2013
+
+- title: Dynamic Task Scheduling Using Parallel Genetic Algorithms for Heterogeneous Distributed Computing
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/Software2014_Khalid.pdf
+  authors:
+    - Nedunchelian Ramanujam, Koushik Kalyanaraman, Meiyappan Nagappan, Raghu Viswanathan	
+  pub:
+    - Empirical Software Engineering
+  year:
+    - Published Online September 08 2013

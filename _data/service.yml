@@ -1,0 +1,66 @@
+- title: Student Volunteer Chair
+  host:
+    - 36th International Conference on Software Engineering (ICSE 2014)
+  urlhost:
+    - http://2014.icse-conferences.org/
+ 
+- title: PC Chair
+  host:
+    - 4th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP 2012)
+  urlhost:
+    - https://sites.google.com/site/iwesep2012/home/
+
+- title: Website Chair
+  host:
+    - 19th IEEE International Symposium on Software Reliability Engineering (ISSRE 2008)
+  urlhost:
+    - http://www.csc2.ncsu.edu/conferences/issre/2008/
+
+- title: PC Member
+  host:
+    - 30th International Conference on Software Maintenance and Evolution (ICSME 2014) 
+  urlhost:
+    - http://www.icsme.org/
+
+- title: PC Member
+  host:
+    - 11th Working Conference on Mining Software Repositories (MSR 2014)
+  urlhost:
+    - http://2014.msrconf.org/
+
+- title: PC Member
+  host:
+    - 6th ACM SiGSOFT India Software Engineering Conference (ISEC 2013)
+  urlhost:
+    - http://isoft.acm.org/isec2013/
+
+- title: PC Member
+  host:
+    - 23rd IEEE International Symposium on Software Reliability Engineering (ISSRE 2012)
+  urlhost:
+    - http://2012.issre.net/
+
+- title: Reviewer
+  host:
+    - IEEE Transactions on Software Engineering (TSE)
+  urlhost:
+    - http://www.computer.org/portal/web/tse/about/
+
+- title: Reviewer
+  host:
+    - Empirical Software Engineering (ESE)
+  urlhost:
+    - http://www.springer.com/computer/swe/journal/10664/
+
+- title: Reviewer
+  host:
+    - The Journal of Systems and Software (JSS)
+  urlhost:
+    - http://www.journals.elsevier.com/journal-of-systems-and-software/
+
+- title: Reviewer
+  host:
+    - IEEE Software
+  urlhost:
+    - http://www.journals.elsevier.com/journal-of-systems-and-software/
+

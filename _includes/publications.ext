@@ -1,0 +1,24 @@
+{% for h in s.new %}
+		<font color="RED"><b>{{ h }}</b></font>
+{% endfor %}
+{% for h in s.title %}
+	{{ h }}
+{% endfor %}
+{% for h in s.urlhost %}
+	<a href="{{ h }}">[PDF]</a>
+{% endfor %}
+<br>
+<h6>
+	<font color="#808080">
+		{% for h in s.authors %}
+			{{ h }}
+		{% endfor %}|
+		{% for h in s.pub %}
+			{{ h }}
+		{% endfor %}|
+		{% for h in s.year %}
+			{{ h }}
+		{% endfor %}
+	</font>
+</h6>
+<p> </p>

@@ -1,0 +1,29 @@
+---
+layout: index
+---
+<article>
+ 
+  <h3 class="closer">{{ page.title }}</h3>
+  {% if page.award %}
+    <img src=/assets/trophy_golden.png width=20px />&nbsp;<b>{{ page.award }}</b>&nbsp;<img src=/assets/trophy_golden.png width=20px /><br />
+  {% endif %}
+  <h6><b>Authors</b> - {{ page.authors }}<br />
+	  <b>Venue</b> - {{ page.venue }}, {{ page.pages }}, {{ page.pubyear }}</h6>
+  <h6 class="taglist"><b>Topics</b> -
+  {% for tag in page.tags %}
+    <a href="/tags/{{ tag }}.html"><span class="taglink">{{ tag }}</span></a>
+  {% endfor %}
+  </h6>
+ 
+  <p class="textblock"><b>Abstract</b> - {{ page.abstract }}</p>
+  {% if page.preprint %}
+  <p><b>Preprint</b> - <a href={{ page.preprint }}>PDF</a></p>
+  {% endif %}
+  {% if page.slides %}
+  <p><b>Slides</b></p>
+  <p>{{ page.slides }}</p>
+  {% endif %}
+  <p><b>Bibtex</b>
+  {% highlight tex %}{{ page.content }}{% endhighlight %}
+ 
+</article>
