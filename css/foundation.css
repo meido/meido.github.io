@@ -1624,9 +1624,9 @@ button, .button {
   text-align: center;
   display: inline-block;
   padding-top: 1rem;
-  padding-right: 2rem;
+  padding-right: 1rem;
   padding-bottom: 1.0625rem;
-  padding-left: 2rem;
+  padding-left: 1rem;
   font-size: 1rem;
   /*     @else                            { font-size: $padding - rem-calc(2); } */
   background-color: #008cba;
@@ -1636,9 +1636,9 @@ button, .button {
   -moz-transition: background-color 300ms ease-out;
   transition: background-color 300ms ease-out;
   padding-top: 1rem;
-  padding-right: 2rem;
+  padding-right: 1rem;
   padding-bottom: 1.0625rem;
-  padding-left: 2rem;
+  padding-left: 1rem;
   font-size: 1rem;
   /*     @else                            { font-size: $padding - rem-calc(2); } */ }
   button:hover, button:focus, .button:hover, .button:focus {
