@@ -2,13 +2,13 @@
   <div class="large-12 columns">
     <div class="nav-bar right">
     </div>
-	   <h2>Mei Nagappan</h2>
+	   <h2 id="about">Mei Nagappan</h2>
     <hr />
   </div>
 </div>
 <div id="left"> 
  <ul class="button-group">
-       <li><a href="/#about" class="button">About</a></li>
+       <li><a href="/#about" class="button">Home</a></li>
 	   <li><a href="/#research" class="button">Research</a></li>
        <li><a href="/#publications" class="button">Publications</a></li>
        <li><a href="/#teaching" class="button">Teaching</a></li>
