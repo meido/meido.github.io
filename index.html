@@ -4,134 +4,139 @@ title: Mei Nagappan
 ---
 
 <div class="row">
-  <div class="large-8 columns">
-    <p class="textblock"></p>
-  </div>
-  <div class="large-4 columns">
-    <img src="/assets/shane_new.jpg" width=240px />
-  </div>
+	<div class="large-12 columns">
+		<table>
+			<tr>
+				<td>
+					<p class="textblock">
+						<b>Email:</b> m e i AT c s . q u e e n s u . c a
+						<br><b>Office:</b> (613) 533-6802
+						<br><b>Mail:</b> 557 Goodwin Hall, Queen's University, Kingston, Ontario, Canada K7L 3N6
+					</p>
+				</td>
+				<td>
+					<img src="/assets/shane_new.jpg" width=240px />
+				</td>
+			</tr>
+		</table>
+	</div>
 </div>
 
 <hr />
 
 <div class="row">
-  <div class="large-12 columns">
-  <h2 id="research">Research</h2>
-<p class="textblock">A more detailed research statement can be found here.
-<br>
-He believes that as SE researchers we should look at deriving solutions that encompass the various stakeholders of software systems, and not only software developers. Hence, for the past 7 years he has been working on SE research that goes beyond just impacting S/W developers and testers. He has worked on using SE research to address the concerns of S/W operators, build engineers, and project managers, in addition to addressing the concerns of S/W developers, testers and SE researchers.
-<br>
-The core of his research is with respect to mining ultra large repository-of software repositories, and analyzing different combinations of repositories for different stakeholders as explained below.
-<br>
-<b>Software Developers</b> - We looked at the source code of hundreds of thousands of mobile apps in the Google Play Market to examine the kind to reuse present in the current mobile app development paradigm. We also looked into the user reviews of a mobile app in the iOS platform in order to categorize the issues that users complain about so that developers can better focus on issues that matter the most to users. Additionally we also looked into the logging statements in source code to identify the parts of the code which the developers considered risky in field operation.
-<br>
-<b>Software Maintainers</b> - We looked at the source code of hundreds of thousands of mobile apps in the Google Play Market to examine the maintenance effort involved in using the advertisement libraries for monetizing the mobile apps. We also looked into how other maintenance efforts for mobile apps can be prioritized.
-<br>
-<b>Software Managers</b> - We looked at improving the performance of the linear models built on SE data by using local models (build on a subset of the data) instead of global models (build on the whole dataset). Additionally by automatically analyzing hundreds of GigaBytes of log files we were able to produce operational profiles of large scale systems, which could be used by managers to prioritize features for the next release of the software.
-<br>
-<b>Software Operators</b> - We looked at how we can bridge the gap between software operators and software developers. We also looked at how we can help software operators identify a small subset of log lines from millions of log lines in a log file, that correspond to the issues currently at hand.
-<br>
-<b>Software Build Engineers</b> - We looked at build migrations that have happened in the past in order to identify the various steps involved in such a migration. This will help build engineers in future such migrations.
-<br>
-<b>Software Engineering Researchers</b> - We have looked at the generalizability issue present in SE research, and proposed a technique in order to identify and present the diversity of a particular SE research study.
-</p>
-  </div>
+	<div class="large-12 columns">
+		<h2 id="research">Research</h2>
+		<p class="textblock">A more detailed research statement can be found here.
+			<br>
+			He believes that as SE researchers we should look at deriving solutions that encompass the various stakeholders of software systems, and not only software developers. Hence, for the past 7 years he has been working on SE research that goes beyond just impacting S/W developers and testers. He has worked on using SE research to address the concerns of S/W operators, build engineers, and project managers, in addition to addressing the concerns of S/W developers, testers and SE researchers.
+			<br>
+			The core of his research is with respect to mining ultra large repository-of software repositories, and analyzing different combinations of repositories for different stakeholders as explained below.
+			<br>
+			<b>Software Developers</b> - We looked at the source code of hundreds of thousands of mobile apps in the Google Play Market to examine the kind to reuse present in the current mobile app development paradigm. We also looked into the user reviews of a mobile app in the iOS platform in order to categorize the issues that users complain about so that developers can better focus on issues that matter the most to users. Additionally we also looked into the logging statements in source code to identify the parts of the code which the developers considered risky in field operation.
+			<br>
+			<b>Software Maintainers</b> - We looked at the source code of hundreds of thousands of mobile apps in the Google Play Market to examine the maintenance effort involved in using the advertisement libraries for monetizing the mobile apps. We also looked into how other maintenance efforts for mobile apps can be prioritized.
+			<br>
+			<b>Software Managers</b> - We looked at improving the performance of the linear models built on SE data by using local models (build on a subset of the data) instead of global models (build on the whole dataset). Additionally by automatically analyzing hundreds of GigaBytes of log files we were able to produce operational profiles of large scale systems, which could be used by managers to prioritize features for the next release of the software.
+			<br>
+			<b>Software Operators</b> - We looked at how we can bridge the gap between software operators and software developers. We also looked at how we can help software operators identify a small subset of log lines from millions of log lines in a log file, that correspond to the issues currently at hand.
+			<br>
+			<b>Software Build Engineers</b> - We looked at build migrations that have happened in the past in order to identify the various steps involved in such a migration. This will help build engineers in future such migrations.
+			<br>
+			<b>Software Engineering Researchers</b> - We have looked at the generalizability issue present in SE research, and proposed a technique in order to identify and present the diversity of a particular SE research study.
+		</p>
+	</div>
 </div>
 
 <hr />
 
 <div class="row" >
-  <div class="large-12 columns">
-  <h2 id="publications">Publications</h2>
-  <h4>Journal Papers</h4>
-  <div class="row">
-  <div class="large-12 columns">
-  <ol>
-    {% for s in site.data.journalpapers %}
-    <li>    
-      {% include publications.ext %}
-    </li>
-    {% endfor %}
-  </ol>
-  
+	<div class="large-12 columns">
+		<h2 id="publications">Publications</h2>
+		<h4>Journal Papers</h4>
+		<ol>
+			{% for s in site.data.journalpapers %}
+			<li>    
+			{% include publications.ext %}
+			</li>
+			{% endfor %}
+		</ol>
+		<h4>Conference Publications</h4>
+		<ol>
+			{% for s in site.data.confpapers %}
+			<li>    
+			{% include publications.ext %}
+			</li>
+			{% endfor %}
+		</ol>
 
-  <h4>Conference Publications</h4>
-  <ol>
-    {% for s in site.data.confpapers %}
-    <li>    
-      {% include publications.ext %}
-    </li>
-    {% endfor %}
-  </ol>
+		<!--<<h4>Theses</h4>
+		<ol>
+			{% for s in site.data.theses %}
+			<li>    
+			{% include publications.ext %}
+			</li>
+			{% endfor %}
+		</ol>
 
-  <!--<<h4>Theses</h4>
-  <ol>
-    {% for s in site.data.theses %}
-    <li>    
-      {% include publications.ext %}
-    </li>
-    {% endfor %}
-  </ol>
-  
-  <h4>Refereed Posters</h4>
- <ol>
-    {% for s in site.data.refpapers %}
-    <li>    
-      {% include publications.ext %}
-    </li>
-    {% endfor %}
-  </ol>-->
-  </div>
-  </div>
+		<h4>Refereed Posters</h4>
+		<ol>
+			{% for s in site.data.refpapers %}
+			<li>    
+			{% include publications.ext %}
+			</li>
+			{% endfor %}
+		</ol>-->
+	</div>
 </div>
 
 <hr />
 
 <div class="row">
-  <div class="large-12 columns">
-  <h2 id="teaching">Teaching</h2>
-	<h4>Courses</h4>
-		<p class="textblock"><b>CISC 835 - Empirical Software Engineering using Ultra Large Repositories</b> (Queens University - Graduate level <a href="http://ulss.cs.queensu.ca/">ULSS</a> Course) – Instructor (Fall 2012)
-<br>
-<br><b>CSC 326 - Software Engineering</b> (NCSU - Undergraduate Core Course) – Teaching Assistant (Fall 2006, Spring 2007, Fall 2007) Held weekly lab sections where students participated in hands-on software engineering exercises. Create multiple homework assignments and detailed programming projects, and grade them. Awarded the Outstanding Teaching Assistant Award for the year 2007 by the University Graduate Student Association.
-<br><b>CSC 712 - Software Testing and Reliability</b>(NCSU - Graduate Higher Level Course) – Teaching Assistant (Fall 2006)
-<br><b>CSC 456 - Computer Architecture and Multiprocessors</b> (NCSU - Undergraduate Course) – Teaching Assistant (Spring 2007)
+	<div class="large-12 columns">
+		<h2 id="teaching">Teaching</h2>
+		<h4>Courses</h4>
+		<p class="textblock">
+			<b>CISC 835 - Empirical Software Engineering using Ultra Large Repositories</b> (Queens University - Graduate level <a href="http://ulss.cs.queensu.ca/">ULSS</a> Course) – Instructor (Fall 2012)
+			<br>
+			<br><b>CSC 326 - Software Engineering</b> (NCSU - Undergraduate Core Course) – Teaching Assistant (Fall 2006, Spring 2007, Fall 2007) Held weekly lab sections where students participated in hands-on software engineering exercises. Create multiple homework assignments and detailed programming projects, and grade them. Awarded the Outstanding Teaching Assistant Award for the year 2007 by the University Graduate Student Association.
+			<br><b>CSC 712 - Software Testing and Reliability</b>(NCSU - Graduate Higher Level Course) – Teaching Assistant (Fall 2006)
+			<br><b>CSC 456 - Computer Architecture and Multiprocessors</b> (NCSU - Undergraduate Course) – Teaching Assistant (Spring 2007)
 
-<br>Assisted in grading and general course administration and held weekly student sessions for all the three courses that I TA'ed.
-
+			<br>Assisted in grading and general course administration and held weekly student sessions for all the three courses that I TA'ed.
 		</p>
-  </div>
+	</div>
 </div>
 
 <hr />
 <div class="row">
-  <div class="large-12 columns">
-  <h2 id="students">Students</h2>
-
-  </div>
+	<div class="large-12 columns">
+		<h2 id="students">Students</h2>
+	</div>
 </div>
 
 <hr/>
 
 <div class="row">
-  <div class="large-12 columns">
-  <h2 id="service">Community Service</h2>
-  <ul class="posts">
-    {% for s in site.data.service %}
-    <li>    
-      {% include service.ext %}
-    </li>
-    {% endfor %}
-  </ul>
-  </div>
-  
-  <hr />
+	<div class="large-12 columns">
+		<h2 id="service">Community Service</h2>
+		<ul class="posts">
+			{% for s in site.data.service %}
+			<li>    
+			{% include service.ext %}
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
+</div>
+
+<hr />
 
 <div class="row">
-  <div class="large-12 columns">
-  <h2 id="personal">Personal</h2>
-  <p class="textblock">
-He was born in a small village called Kottaiyur, but grew up in the coastal city of Chennai, in India. It was in high school, that he fell in love with Computer Science and Economics. If you are looking for the other Nagappan in the SE field, yes we are related. His interests outside academia are in playing squash, following football and exploring different cuisines.
-</p>
-  </div>
+	<div class="large-12 columns">
+		<h2 id="personal">Personal</h2>
+		<p class="textblock">
+			He was born in a small village called Kottaiyur, but grew up in the coastal city of Chennai, in India. It was in high school, that he fell in love with Computer Science and Economics. If you are looking for the other Nagappan in the SE field, yes we are related. His interests outside academia are in playing squash, following football and exploring different cuisines.
+		</p>
+	</div>
 </div>
