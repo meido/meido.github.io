@@ -1,15 +1,12 @@
-- title: Chair
+- title: Student Volunteer Chair
   host:
     - 36th International Conference on Software Engineering (ICSE 2014)
-  name:
-    - Student Volunteer Chair
   urlhost:
     - http://2014.icse-conferences.org/
  
+- title: PC Chair
   host:
     - 4th IEEE International Workshop on Empirical Software Engineering in Practice (IWESEP 2012)
-  name:
-    - PC Chair
   urlhost:
     - https://sites.google.com/site/iwesep2012/home/
 
