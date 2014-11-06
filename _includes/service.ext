@@ -1,8 +1,4 @@
-<ul class="servlist">
 {% for h in s.host %}
-  <li class="servitem">
   {{s.title}} - <a href="{{h.urlhost }}">{{ h }}</a>
-  </li>
 {% endfor %}
-</ul>
 <p> </p>
