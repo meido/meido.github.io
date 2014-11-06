@@ -2,7 +2,7 @@
   new:
     - NEW
   urlhost:
-    - https://github.com/meido/meido.github.io/blob/master/publications/JournalPapers/EMSE2013_Bettenburg.pdf?raw=true
+    - http://sailhome.cs.queensu.ca/~mei/publications/TSE2014_Syer.pdf
   authors:
     - Mark D. Syer, Meiyappan Nagappan, Bram Adams and Ahmed E. Hassan
   pub:
