@@ -3,7 +3,7 @@
     <hr />
       <div class="large-8 columns">
         <ul class="inline-list right">
-       <li><a href="/#top" >Home</a></li>
+       <li><a href="/" >Home</a></li>
 	   <li><a href="/#research" >Research</a></li>
        <li><a href="/#publications" >Publications</a></li>
        <li><a href="/#teaching" >Teaching</a></li>
