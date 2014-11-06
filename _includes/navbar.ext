@@ -9,7 +9,7 @@
 		<tr>
 			<td bgcolor="#008cba">
 				<ul class="button-group">
-					<li><a href="/#top" class="button">Home</a></li>
+					<li><a href="/" class="button">Home</a></li>
 					<li><a href="/#research" class="button">Research</a></li>
 					<li><a href="/#publications" class="button">Publications</a></li>
 					<li><a href="/#teaching" class="button">Teaching</a></li>
