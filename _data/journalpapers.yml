@@ -1,6 +1,18 @@
-- title: Replicating and Re-evaluating the Theory of Relative Defect-Proneness
+- title: Investigating the Effect of Defect Co-fix on Quality Assurance Resource Allocation: A Search-based Approach
   new:
     - NEW
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/JSS2014-Hemmati.pdf
+  authors:
+    - Hadi Hemmati, Meiyappan Nagappan, Ahmed E. Hassan
+  pub:
+    - Journal of Systems and Software
+  year:
+    - Nov 2014 (PrePrint)
+  
+- title: Replicating and Re-evaluating the Theory of Relative Defect-Proneness
+  new:
+    - 
   urlhost:
     - http://sailhome.cs.queensu.ca/~mei/publications/TSE2014_Syer.pdf
   authors:
