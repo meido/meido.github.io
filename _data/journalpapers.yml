@@ -1,15 +1,4 @@
-- title: Examining the Relationship between FindBugs Warnings and End User Ratings: A Case Study On 10000 Android Apps
-  new:
-    - NEW
-  urlhost:
-    - http://sailhome.cs.queensu.ca/~mei/publications/Software2015_Khalid.pdf
-  authors:
-    - Hammad Khalid, Meiyappan Nagappan, Ahmed E. Hassan
-  pub:
-    - IEEE Software
-  year:
-    - Nov 2014 (PrePrint)
-  
+ 
 - title: Replicating and Re-evaluating the Theory of Relative Defect-Proneness
   new:
     - 
