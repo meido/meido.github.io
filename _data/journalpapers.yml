@@ -1,4 +1,4 @@
-- title: Examining the Relationship between FindBugs Warnings and End User Ratings: A Case Study On 10000 Android Apps
+- title: Examining the Relationship between FindBugs Warnings and End User Ratings: A Case Study On 10,000 Android Apps
   new:
     - NEW
   urlhost:
@@ -9,7 +9,7 @@
     - IEEE Software
   year:
     - Nov 2014 (PrePrint)
-- title: Investigating the Effect of "Defect Co-fix" on Quality Assurance Resource Allocation: A Search-based Approach
+- title: Investigating the Effect of Defect Co-fix on Quality Assurance Resource Allocation: A Search-based Approach
   new:
     - NEW
   urlhost:
