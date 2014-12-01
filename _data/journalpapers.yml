@@ -2,11 +2,11 @@
   new:
     - 
   urlhost:
-    - http://sailhome.cs.queensu.ca/~mei/publications/TSE2014_Syer.pdf
+    - http://sailhome.cs.queensu.ca/~mei/publications/Software2015_Khalid.pdf
   authors:
-    - Mark D. Syer, Meiyappan Nagappan, Bram Adams and Ahmed E. Hassan
+    - Hammad Khalid, Meiyappan Nagappan, and Ahmed E. Hassan
   pub:
-    - IEEE Transactions of Software Engineering
+    - IEEE Software
   year:
     - Nov 2014 (PrePrint)
 
