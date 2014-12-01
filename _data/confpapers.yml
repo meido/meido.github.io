@@ -2,47 +2,47 @@
   new:
     - NEW
   urlhost:
-    - http://sailhome.cs.queensu.ca/~mei/publications/TSE2014_Syer.pdf
+    - http://sailhome.cs.queensu.ca/~mei/publications/FSE2014-Khalid.pdf
   authors:
     - Hammad Khalid, Meiyappan Nagappan, Emad Shihab, and Ahmed E. Hassan
   pub:
-    - IEEE Transactions of Software Engineering
+    - 22nd ACM SIGSOFT International Symposium on the Foundations of Software Engineering (FSE 2014)
   year:
-    - 2014
+    - November 16 - 21, 2014
  
 - title: Understanding Log Lines Using Development Knowledge
   new:
     - 
   urlhost:
-    - http://sailhome.cs.queensu.ca/~mei/publications/EMSE2014_Mcintosh.pdf
+    - http://sailhome.cs.queensu.ca/~mei/publications/ICSME2014-Shang.pdf
   authors:
     - Weiyi Shang, Meiyappan Nagappan, Ahmed E. Hassan, and Zhen Ming Jiang
   pub:
-    - Empirical Software Engineering
+    - 30th IEEE International Conference on Software Maintenance and Evolution (ICSME 2014)
   year:
-    - May 23 2014
+    - October 1 - 3, 2014
 
 - title: Mining Co-Change Information to Understand when Build Changes are Necessary
   new:
     - 
   urlhost:
-    - http://sailhome.cs.queensu.ca/~mei/publications/Software2014_Mojica_2.pdf
+    - http://sailhome.cs.queensu.ca/~mei/publications/ICSME2014-Mcintosh.pdf
   authors:
     - Shane Mcintosh, Bram Adams, Meiyappan Nagappan, and Ahmed E. Hassan
   pub:
-    - IEEE Software
+    - 30th IEEE International Conference on Software Maintenance and Evolution (ICSME 2014)
   year:
-    - 14 May 2014 (PrePrint)
+    - October 1 - 3, 2014
 
 - title: An Empirical Study of Dormant Bugs
   new:
     - 
   urlhost:
-    - http://sailhome.cs.queensu.ca/~mei/publications/Software2014_Mojica_1.pdf
+    - http://sailhome.cs.queensu.ca/~mei/publications/MSR2014-Chen-PreCRC.pdf
   authors:
     - Tse-Hsun Chen, Meiyappan Nagappan, Emad Shihab, and Ahmed E. Hassan
   pub:
-    - IEEE Software
+    - 11th ACM/IEEE Working Conference on Mining Software Repositories (MSR 2014)
   year:
     - 1 May 2014 (PrePrint)
 
