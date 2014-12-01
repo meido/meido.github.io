@@ -10,6 +10,18 @@
   year:
     - 2014
  
+- title: Replicating and Re-evaluating the Theory of Relative Defect-Proneness
+  new:
+    - 
+  urlhost:
+    - http://sailhome.cs.queensu.ca/~mei/publications/TSE2014_Syer.pdf
+  authors:
+    - Mark D. Syer, Meiyappan Nagappan, Bram Adams and Ahmed E. Hassan
+  pub:
+    - IEEE Transactions of Software Engineering
+  year:
+    - 2014
+ 
 - title: A Large-Scale Empirical Study of the Relationship Between Build Technology and Build Maintenance
   new:
     - 
