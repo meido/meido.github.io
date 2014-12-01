@@ -1,12 +1,12 @@
-- title: Investigating the Effect of Defect Co-fix on Quality Assurance Resource Allocation: A Search-based Approach
+- title: Examining the Relationship between FindBugs Warnings and End User Ratings: A Case Study On 10000 Android Apps
   new:
     - NEW
   urlhost:
-    - http://sailhome.cs.queensu.ca/~mei/publications/JSS2014-Hemmati.pdf
+    - http://sailhome.cs.queensu.ca/~mei/publications/Software2015_Khalid.pdf
   authors:
-    - Hadi Hemmati, Meiyappan Nagappan, Ahmed E. Hassan
+    - Hammad Khalid, Meiyappan Nagappan, Ahmed E. Hassan
   pub:
-    - Journal of Systems and Software
+    - IEEE Software
   year:
     - Nov 2014 (PrePrint)
   
