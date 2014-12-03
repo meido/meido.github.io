@@ -1,4 +1,0 @@
-{% for h in s.host %}
-  {{s.title}} - <a href="{{h.urlhost }}">{{ h }}</a>
-{% endfor %}
-<p> </p>
